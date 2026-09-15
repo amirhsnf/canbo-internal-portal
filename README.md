@@ -12,6 +12,13 @@
 
 ## ✨ Features & Modules
 
+### 🔸 Direct Store Ordering (Fresh Goods)
+A workflow for ordering perishable goods (e.g., meat, poultry) that are shipped directly from suppliers to stores, bypassing the warehouse. Based on sales forecasts, minimum and maximum stock levels are defined per store and per item. Store managers and regional supervisors follow a guided approval flow driven by a plan prepared by the Planning department. The system ultimately generates a consolidated output for each supplier, ensuring timely delivery to stores on the designated day.
+
+![Direct Order](/screenshots/direct-order.jpg)
+
+---
+
 ### 🔸 Group Payment  
 For the Finance and Treasury department to upload Excel files of supplier payments, validate IBANs via SAP web service, and process mass payments through Saman Bank's API. Each transaction goes through approval stages and is tracked for status and logs.
 
